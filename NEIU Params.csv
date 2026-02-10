@@ -1,0 +1,23 @@
+USDA Soil Profile:,,,,,Param,Value,Source
+Core Depth (cm),Sand %,Silt %,Clay %,,Lat,41.97760,
+0-10,8,63,29,,Alt,181.46,google earth
+10-60,11,57,32,,TVBC,1238,
+,,,,,METEO,1460,
+Core Soil Profile:,,,,,LAI,3.59,"https://pmc.ncbi.nlm.nih.gov/articles/PMC11932473/#:~:text=The%20average%20LAI%20of%20Xinxiang%20People's%20Park%20is%202.30%20(the,high%20ecological%20functions%20over%20time."
+0-10,0,64,36,,Veg Type,Trees,(deciduous fruit chosen)
+10-20,57,0,43,,Air Penetration,not small,
+20-30,0,49,51,,Wind Height,1524,
+30-40,0,96,4,,Temp Height,150,
+40-50,6,37,57,,Crop Height,100,
+50-60,12,35,53,,Root Depth,40,
+,,,,,Max h at Soil Surface,3,
+,,,,,hCritA,1000,
+Notes:,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
